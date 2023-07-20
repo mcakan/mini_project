@@ -1,0 +1,29 @@
+
+
+ Project: Design a sign-up and login page for a website.
+
+
+    Menu: Show a menu to the user for selecting an action.
+
+
+Sign-up : Get the user's full name, username, email, and password.
+              Store the username, email, and password in separate lists.
+              Do not accept duplicate usernames or emails.
+
+
+Login   : Enter the username/email and password.
+              If the username/email is not found, display a message indicating that the user is not registered.
+              If the username/email and password match the records, allow the user to log in to the site.
+
+
+Email   : Should not contain any spaces.
+              Should contain "@",
+              Should end with "gmail.com" or "hotmail.com".
+
+
+Password: Should not contain any spaces,
+              Should be at least 6 characters long,
+              Should contain at least one lowercase letter,
+              Should contain at least one uppercase letter,
+              Should contain at least one digit,
+              Should contain at least one symbol.
