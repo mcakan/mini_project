@@ -27,7 +27,7 @@ public class LoginMain {
                     userService.login();
                     break;
                 case 3:
-                    System.out.println("Have a nice day..");
+                    System.out.println("Have a nice day...");
                     break;
                 default:
                     System.out.println("You made an incorrect entry. Try again..");
